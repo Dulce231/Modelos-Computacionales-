@@ -1,0 +1,19 @@
+Resumen,,,,,,,,
+,,,,,,,,
+Estadísticas de la regresión,,,,,,,,
+Coeficiente de correlación múltiple,0.613641919,,,,,,,
+Coeficiente de determinación R^2,0.376556404,,,,,,,
+R^2  ajustado,0.338771944,,,,,,,
+Error típico,6.061754111,,,,,,,
+Observaciones,36,,,,,,,
+,,,,,,,,
+ANÁLISIS DE VARIANZA,,,,,,,,
+,Grados de libertad,Suma de cuadrados,Promedio de los cuadrados,F,Valor crítico de F,,,
+Regresión,2,732.3917466,366.1958733,9.965906644,0.000411295,,,
+Residuos,33,1212.580476,36.7448629,,,,,
+Total,35,1944.972222,,,,,,
+,,,,,,,,
+,Coeficientes,Error típico,Estadístico t,Probabilidad,Inferior 95%,Superior 95%,Inferior 95.0%,Superior 95.0%
+Intercepción,79.69471929,5.56436898,14.3223283,1.01832E-15,68.37392548,91.0155131,68.37392548,91.0155131
+Variable X 1,0.007805258,0.004006908,1.94795004,0.05996883,-0.000346859,0.015957374,-0.000346859,0.015957374
+Variable X 2,0.007550947,0.006437148,1.173026745,0.249182898,-0.00554553,0.020647424,-0.00554553,0.020647424
